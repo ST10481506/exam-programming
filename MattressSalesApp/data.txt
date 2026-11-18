@@ -1,0 +1,9 @@
+DATA LOG
+*****************************
+Customer Name: Neo
+Product: Cozy Nights Monarch
+VAT: R 1481.4
+COMMISSION: R 493.8
+TOTAL: R 11851.2
+*****************************
+
